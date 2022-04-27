@@ -1,3 +1,6 @@
+## 220427: Thêm màu cho console
+
+
 # Tool-settings
 
 Lỗi intellij bị mất encode ở properties files﻿
